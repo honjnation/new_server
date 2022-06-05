@@ -1,0 +1,5 @@
+lsscsi
+lsblk
+htop
+dstat
+tmux
